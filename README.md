@@ -59,7 +59,7 @@ The `mobile.csv` dataset includes:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/omarlila/Data-Science-Tools-project.git
 ```
 
 2. Install dependencies:
